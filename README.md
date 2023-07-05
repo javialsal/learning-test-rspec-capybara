@@ -1,1 +1,1 @@
-Test-Driven Rails
+Test-Driven Rails with Rspec and Capybara
